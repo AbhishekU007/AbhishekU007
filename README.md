@@ -4,9 +4,9 @@
 
 🔧 Currently diving into:
 
-• MERN Stack
-• Spring Boot
-• Bootstrap and more...
+• MERN Stack <br>
+• Spring Boot <br>
+• Bootstrap and more... 
 
 💻 Passionate about coding, competitive programming, and turning ideas into reality.
 
